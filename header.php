@@ -9,6 +9,8 @@ $isLoggedIn = isset($_SESSION['loggedIn']) ? $_SESSION['loggedIn'] : false;
 <html lang="en">
 <H1>HELLO WORLD123</H1>
 <H1>HELLO WORLD123</H1>
+<H1>HELLO WORLD123</H1>
+<H1>HELLO WORLD123</H1>
 
 <head>
     <meta charset="UTF-8">
